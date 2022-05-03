@@ -16,19 +16,19 @@ Adlight Akinyi
 # Cloning
 * In your terminal:
 
-        $git clone  https://github.com/AdlightAkinyi/News-App.git
-        $ cd News-App
+        git clone  https://github.com/AdlightAkinyi/News-App.git
+        cd News-App
 
 # Running the Application
 * To run the application, in your terminal:
 
-        $ chmod +x start.sh
-        $ ./start.sh
+        chmod +x start.sh
+        ./start.sh
 
 # Testing the Application
 * To run the tests for the classes
 
-        $ python3.8 manage.py test
+        python3.8 manage.py test
 
 # Technologies Used
 * Python3.8
