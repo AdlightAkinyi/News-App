@@ -7,19 +7,9 @@ This is a flask application that will help users list and preview news articles 
 
 Adlight Akinyi
 
-# SetUp  and installation requirement
- Flask
+# Set-Up  and installation requirements
 
- Flask-bootstrap
-
- Flask-script
- 
-Pip
-
-# Cloning
-
-
-        git clone  https://github.com/AdlightAkinyi/News-App.git
+  git clone  https://github.com/AdlightAkinyi/News-App.git
 
         cd News-App
 
