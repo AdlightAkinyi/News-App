@@ -9,8 +9,11 @@ Adlight Akinyi
 
 # SetUp  and installation requirement
  Flask
+
  Flask-bootstrap
+
  Flask-script
+ 
 Pip
 
 # Cloning
