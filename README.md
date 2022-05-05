@@ -16,9 +16,7 @@ Adlight Akinyi
 # Running the Application
 
 
-        chmod +x start.sh
-
-        ./start.sh
+manage.py
 
 # Testing the Application
 
